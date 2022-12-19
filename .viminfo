@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1671414269,,"wq"
+|2,0,1671416412,,"wq"
 :q!
 |2,0,1670897987,,"q!"
 :!
@@ -84,34 +84,146 @@ $
 |3,0,36,0,1,0,1670465651,"r"
 
 # File marks:
-'0  1  16  ~/git/testgit.txt
-|4,48,1,16,1671414269,"~/git/testgit.txt"
-'1  1  9  ~/testgit.txt
-|4,49,1,9,1671414101,"~/testgit.txt"
-'2  1  14  ~/test2.txt
-|4,50,1,14,1670897987,"~/test2.txt"
-'3  1  4  ~/test.txt
-|4,51,1,4,1670897922,"~/test.txt"
-'4  1  0  ~/typescript
-|4,52,1,0,1670897867,"~/typescript"
-'5  3  0  ~/.ssh/authorized_keys
-|4,53,3,0,1670896818,"~/.ssh/authorized_keys"
-'6  1  0  ~/.ssh/authorized_keys
-|4,54,1,0,1670896753,"~/.ssh/authorized_keys"
-'7  1  0  ~/.ssh/authorized_keys
-|4,55,1,0,1670896753,"~/.ssh/authorized_keys"
-'8  1  0  /etc/ssh/sshd_config
-|4,56,1,0,1670895951,"/etc/ssh/sshd_config"
-'9  8  0  /etc/ssh
-|4,57,8,0,1670895938,"/etc/ssh"
+'0  3  3  ~/gitseconddir/second.py
+|4,48,3,3,1671416412,"~/gitseconddir/second.py"
+'1  1  4  ~/gitseconddir/second.py
+|4,49,1,4,1671416367,"~/gitseconddir/second.py"
+'2  1  4  ~/gitseconddir/second.py
+|4,50,1,4,1671416367,"~/gitseconddir/second.py"
+'3  1  7  ~/gitdemo2.txt
+|4,51,1,7,1671416021,"~/gitdemo2.txt"
+'4  1  17  ~/gitdemo2.txt
+|4,52,1,17,1671415586,"~/gitdemo2.txt"
+'5  1  16  ~/git/testgit.txt
+|4,53,1,16,1671414269,"~/git/testgit.txt"
+'6  1  9  ~/testgit.txt
+|4,54,1,9,1671414101,"~/testgit.txt"
+'7  1  14  ~/test2.txt
+|4,55,1,14,1670897987,"~/test2.txt"
+'8  1  4  ~/test.txt
+|4,56,1,4,1670897922,"~/test.txt"
+'9  1  0  ~/typescript
+|4,57,1,0,1670897867,"~/typescript"
 
 # Jumplist (newest first):
+-'  3  3  ~/gitseconddir/second.py
+|4,39,3,3,1671416412,"~/gitseconddir/second.py"
+-'  1  4  ~/gitseconddir/second.py
+|4,39,1,4,1671416407,"~/gitseconddir/second.py"
+-'  1  4  ~/gitseconddir/second.py
+|4,39,1,4,1671416367,"~/gitseconddir/second.py"
+-'  1  7  ~/gitdemo2.txt
+|4,39,1,7,1671416021,"~/gitdemo2.txt"
+-'  1  7  ~/gitdemo2.txt
+|4,39,1,7,1671416021,"~/gitdemo2.txt"
+-'  1  7  ~/gitdemo2.txt
+|4,39,1,7,1671416021,"~/gitdemo2.txt"
+-'  1  7  ~/gitdemo2.txt
+|4,39,1,7,1671416021,"~/gitdemo2.txt"
+-'  1  17  ~/gitdemo2.txt
+|4,39,1,17,1671415586,"~/gitdemo2.txt"
+-'  1  17  ~/gitdemo2.txt
+|4,39,1,17,1671415586,"~/gitdemo2.txt"
+-'  1  17  ~/gitdemo2.txt
+|4,39,1,17,1671415586,"~/gitdemo2.txt"
+-'  1  17  ~/gitdemo2.txt
+|4,39,1,17,1671415586,"~/gitdemo2.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
+-'  1  16  ~/git/testgit.txt
+|4,39,1,16,1671414269,"~/git/testgit.txt"
 -'  1  16  ~/git/testgit.txt
 |4,39,1,16,1671414269,"~/git/testgit.txt"
 -'  1  9  ~/testgit.txt
 |4,39,1,9,1671414101,"~/testgit.txt"
 -'  1  9  ~/testgit.txt
 |4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
+-'  1  9  ~/testgit.txt
+|4,39,1,9,1671414101,"~/testgit.txt"
 -'  1  14  ~/test2.txt
 |4,39,1,14,1670897987,"~/test2.txt"
 -'  1  14  ~/test2.txt
@@ -120,194 +232,97 @@ $
 |4,39,1,14,1670897987,"~/test2.txt"
 -'  1  14  ~/test2.txt
 |4,39,1,14,1670897987,"~/test2.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  4  ~/test.txt
-|4,39,1,4,1670897922,"~/test.txt"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  1  0  ~/typescript
-|4,39,1,0,1670897867,"~/typescript"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  3  0  ~/.ssh/authorized_keys
-|4,39,3,0,1670896818,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896754,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896753,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896753,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896753,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896753,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1670896753,"~/.ssh/authorized_keys"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
+-'  1  14  ~/test2.txt
+|4,39,1,14,1670897987,"~/test2.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitseconddir/second.py
+	*	1671416412	0
+	"	3	3
+	^	3	4
+	.	3	3
+	+	1	5
+	+	3	3
+
+> ~/gitdemo2.txt
+	*	1671416019	0
+	"	1	7
+	^	1	8
+	.	1	8
+	+	1	8
 
 > ~/git/testgit.txt
 	*	1671414268	0
