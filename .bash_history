@@ -514,3 +514,80 @@ watch -n 5 date
 shutdown
 sudo shutdown
 date
+git --version
+sudo yum install git -y
+git --version
+ls -l
+ls -la
+mkdir git
+ls -l
+rmdir *
+sudo rmdir *
+sudo rm -rf *
+ls -l
+ls -la
+git init
+git config --global user.name "p2pro-DevOps"
+git config --global user.email "p2protech@gmail.com"
+git config --list
+ls -la
+vi testgit.txt
+git status
+mkdir git
+cd git/
+ls -la
+vi testgit.txt
+git status
+git add testgit.txt
+git status
+git add .
+git status
+cd ..
+pwd
+git add .
+git status
+git commit -m "demo git commands"
+git status
+git branch
+git remote -v
+git remote add test https://github.com/dec-batch/demo_repo.git
+git remote -v
+git push test master
+history
+ls -la
+git log
+git show  e909eb56f4caf
+git status
+vi gitdemo2.txt
+git status
+git add gitdemo2.txt
+git status
+git commit -m "second git command demo"
+git status
+git push test master
+git log
+git show 332741c
+vi gitdemo2.txt 
+git status
+git add gitdemo2.txt 
+git commit -m "removing data in gitdemo2 file"
+git status
+git log
+git show ba2588f5517
+git push test master
+ls -l
+mkdir gitseconddir
+cd gitseconddir/
+vi second.py
+cd ..
+git status
+git add .
+git status
+cd gitseconddir/
+vi second.py 
+cd ..
+git status
+cat gitseconddir/second.py 
+git commit -a -m "adding the new changes"
+git log
+git push test master
