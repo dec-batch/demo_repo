@@ -17,10 +17,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1671674788,,"wq"
 :q!
 |2,0,1671588822,,"q!"
-:wq
-|2,0,1671588785,,"wq"
 :!
 |2,0,1670896745,,"!"
 :wq!
@@ -84,20 +84,20 @@ $
 |3,1,36,0,1,0,1671587525,"k"
 
 # File marks:
-'0  1  0  ~/.viminfo
-|4,48,1,0,1671588822,"~/.viminfo"
-'1  1  30  ~/branch.txt
-|4,49,1,30,1671588785,"~/branch.txt"
-'2  3  3  ~/.gitignore
-|4,50,3,3,1671587552,"~/.gitignore"
-'3  3  0  ~/.gitignore
-|4,51,3,0,1671587528,"~/.gitignore"
-'4  3  3  ~/.gitignore
-|4,52,3,3,1671587482,"~/.gitignore"
+'0  3  24  ~/stash_test.txt
+|4,48,3,24,1671674788,"~/stash_test.txt"
+'1  1  0  ~/.viminfo
+|4,49,1,0,1671588822,"~/.viminfo"
+'2  1  30  ~/branch.txt
+|4,50,1,30,1671588785,"~/branch.txt"
+'3  3  3  ~/.gitignore
+|4,51,3,3,1671587552,"~/.gitignore"
+'4  3  0  ~/.gitignore
+|4,52,3,0,1671587528,"~/.gitignore"
 '5  3  3  ~/.gitignore
 |4,53,3,3,1671587482,"~/.gitignore"
-'6  4  6  ~/.gitignore
-|4,54,4,6,1671587461,"~/.gitignore"
+'6  3  3  ~/.gitignore
+|4,54,3,3,1671587482,"~/.gitignore"
 '7  4  6  ~/.gitignore
 |4,55,4,6,1671587461,"~/.gitignore"
 '8  4  6  ~/.gitignore
@@ -106,12 +106,30 @@ $
 |4,57,4,6,1671587461,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1671588822,"~/.viminfo"
 -'  1  30  ~/branch.txt
 |4,39,1,30,1671588785,"~/branch.txt"
 -'  1  30  ~/branch.txt
 |4,39,1,30,1671588785,"~/branch.txt"
+-'  1  30  ~/branch.txt
+|4,39,1,30,1671588785,"~/branch.txt"
+-'  1  30  ~/branch.txt
+|4,39,1,30,1671588785,"~/branch.txt"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587552,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587552,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587552,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587552,"~/.gitignore"
 -'  3  3  ~/.gitignore
 |4,39,3,3,1671587552,"~/.gitignore"
 -'  3  3  ~/.gitignore
@@ -128,6 +146,22 @@ $
 |4,39,3,0,1671587528,"~/.gitignore"
 -'  3  0  ~/.gitignore
 |4,39,3,0,1671587528,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1671587528,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1671587528,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1671587528,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1671587528,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587482,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587482,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587482,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1671587482,"~/.gitignore"
 -'  3  3  ~/.gitignore
 |4,39,3,3,1671587482,"~/.gitignore"
 -'  3  3  ~/.gitignore
@@ -160,6 +194,38 @@ $
 |4,39,4,6,1671587464,"~/.gitignore"
 -'  4  6  ~/.gitignore
 |4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587464,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587461,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587461,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587461,"~/.gitignore"
+-'  4  6  ~/.gitignore
+|4,39,4,6,1671587461,"~/.gitignore"
 -'  4  6  ~/.gitignore
 |4,39,4,6,1671587461,"~/.gitignore"
 -'  4  6  ~/.gitignore
@@ -200,104 +266,38 @@ $
 |4,39,1,0,1671587430,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1671587430,"~/.gitignore"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
--'  1  2  ~/node_modules/test
-|4,39,1,2,1671587350,"~/node_modules/test"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1671587430,"~/.gitignore"
 -'  1  2  ~/node_modules/test
 |4,39,1,2,1671587350,"~/node_modules/test"
 -'  1  2  ~/node_modules/test
@@ -308,6 +308,13 @@ $
 |4,39,1,2,1671587350,"~/node_modules/test"
 
 # History of marks within files (newest to oldest):
+
+> ~/stash_test.txt
+	*	1671674787	0
+	"	3	24
+	^	3	25
+	.	3	24
+	+	3	24
 
 > ~/.viminfo
 	*	1671588821	0
@@ -439,15 +446,3 @@ $
 	^	8	15
 	.	8	14
 	+	8	14
-
-> ~/test3.txt
-	*	1670465613	0
-	"	102	0
-	^	103	0
-	.	102	0
-	+	1	42
-	+	270	0
-	+	120	0
-	+	103	0
-	+	101	0
-	+	102	0
