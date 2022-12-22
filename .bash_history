@@ -591,3 +591,119 @@ cat gitseconddir/second.py
 git commit -a -m "adding the new changes"
 git log
 git push test master
+l s-l
+ls -l
+ls -la
+touch .gitignore
+ls -la
+mkdir node_modules testgitignore
+touch test_gitignore
+ls -la
+git status
+git add .
+git commit -m ".gitignore demo"
+git status
+git remote -v
+git push test main
+git push test master
+ls -la
+cd node_modules/
+ls -a
+ls -aa
+ls -al
+vi test
+cd ..
+ls -la
+git status
+touch book mobile
+ls -l
+vi .gitignore
+git status
+vi .gitignore
+git status
+vi .gitignore
+git status
+git add .
+git commit -m "second test .gitignore"
+git push test master
+l -la
+ls -aa
+git branch
+ls -l
+git branch development
+git branch
+git checkout development
+git branch
+ls -l
+vi testgit.txt 
+git status
+git add .
+git commit -m "changes done in dev branch"
+git branch
+git checkout master
+git branch
+cat testgit.txt 
+git checkout development
+cat testgit
+cat testgit.txt 
+git branch
+vi testgit.txt 
+git status
+git checkout master
+git branch
+git commit -a -m "test"
+git status
+git checkout master
+git branch
+cat testgit.txt 
+vi branch.txt
+git status
+git checkout development
+vi .viminfo 
+git commit -a -m ".viminfo"
+git status
+git checkout development
+ls -l
+git branch
+vi branch.txt 
+git status
+rm -rf .viminfo 
+git status
+git commit -a -m ".viminfo"
+git status
+cat branch.txt 
+git checkout master
+cat branch.txt 
+git status
+git add .
+git commit -m "pushing all the code to remote repo"
+git push test --all
+git branch
+git checkout development
+cat testgit.txt 
+git pull test development
+cat testgit.txt 
+vi testgit.txt 
+git commit -a -m "demo git conflict"
+cat testgit.txt 
+git pull test development
+vi testgit.txt 
+git commit -a -m "resloving conflict"
+cat testgit.txt 
+git push test development
+git branch
+git checkout master
+git status
+git commit -a -m "demo"
+git add 
+git add .
+git commit -m "demo"
+git checkout master
+git branch
+git brach -d development
+git branch -d development
+git branch -D development
+git branch
+git push test :development
+git branch -m master main
+git branch
