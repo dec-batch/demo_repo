@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1671760811,,"wq"
+|2,0,1671760863,,"wq"
 :q!
 |2,0,1671588822,,"q!"
 :!
@@ -84,34 +84,50 @@ $
 |3,1,36,0,1,0,1671587525,"k"
 
 # File marks:
-'0  1  4  ~/demo2
-|4,48,1,4,1671760811,"~/demo2"
-'1  1  10  ~/git/testssh
-|4,49,1,10,1671760324,"~/git/testssh"
-'2  1  19  ~/second_test.txt
-|4,50,1,19,1671675350,"~/second_test.txt"
-'3  3  24  ~/stash_test.txt
-|4,51,3,24,1671674788,"~/stash_test.txt"
-'4  1  0  ~/.viminfo
-|4,52,1,0,1671588822,"~/.viminfo"
-'5  1  30  ~/branch.txt
-|4,53,1,30,1671588785,"~/branch.txt"
-'6  3  3  ~/.gitignore
-|4,54,3,3,1671587552,"~/.gitignore"
-'7  3  0  ~/.gitignore
-|4,55,3,0,1671587528,"~/.gitignore"
+'0  2  4  ~/demo2
+|4,48,2,4,1671760863,"~/demo2"
+'1  1  4  ~/demo2
+|4,49,1,4,1671760811,"~/demo2"
+'2  1  4  ~/demo2
+|4,50,1,4,1671760811,"~/demo2"
+'3  1  10  ~/git/testssh
+|4,51,1,10,1671760324,"~/git/testssh"
+'4  1  19  ~/second_test.txt
+|4,52,1,19,1671675350,"~/second_test.txt"
+'5  3  24  ~/stash_test.txt
+|4,53,3,24,1671674788,"~/stash_test.txt"
+'6  1  0  ~/.viminfo
+|4,54,1,0,1671588822,"~/.viminfo"
+'7  1  30  ~/branch.txt
+|4,55,1,30,1671588785,"~/branch.txt"
 '8  3  3  ~/.gitignore
-|4,56,3,3,1671587482,"~/.gitignore"
-'9  3  3  ~/.gitignore
-|4,57,3,3,1671587482,"~/.gitignore"
+|4,56,3,3,1671587552,"~/.gitignore"
+'9  3  0  ~/.gitignore
+|4,57,3,0,1671587528,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  2  4  ~/demo2
+|4,39,2,4,1671760863,"~/demo2"
+-'  1  4  ~/demo2
+|4,39,1,4,1671760858,"~/demo2"
 -'  1  4  ~/demo2
 |4,39,1,4,1671760811,"~/demo2"
 -'  1  10  ~/git/testssh
 |4,39,1,10,1671760324,"~/git/testssh"
 -'  1  10  ~/git/testssh
 |4,39,1,10,1671760324,"~/git/testssh"
+-'  1  10  ~/git/testssh
+|4,39,1,10,1671760324,"~/git/testssh"
+-'  1  10  ~/git/testssh
+|4,39,1,10,1671760324,"~/git/testssh"
+-'  1  19  ~/second_test.txt
+|4,39,1,19,1671675350,"~/second_test.txt"
+-'  1  19  ~/second_test.txt
+|4,39,1,19,1671675350,"~/second_test.txt"
+-'  1  19  ~/second_test.txt
+|4,39,1,19,1671675350,"~/second_test.txt"
+-'  1  19  ~/second_test.txt
+|4,39,1,19,1671675350,"~/second_test.txt"
 -'  1  19  ~/second_test.txt
 |4,39,1,19,1671675350,"~/second_test.txt"
 -'  1  19  ~/second_test.txt
@@ -136,6 +152,38 @@ $
 |4,39,3,24,1671674788,"~/stash_test.txt"
 -'  3  24  ~/stash_test.txt
 |4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  3  24  ~/stash_test.txt
+|4,39,3,24,1671674788,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
+-'  1  0  ~/stash_test.txt
+|4,39,1,0,1671674775,"~/stash_test.txt"
 -'  1  0  ~/stash_test.txt
 |4,39,1,0,1671674775,"~/stash_test.txt"
 -'  1  0  ~/stash_test.txt
@@ -184,6 +232,38 @@ $
 |4,39,1,0,1671588822,"~/.viminfo"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1671588822,"~/.viminfo"
 -'  1  30  ~/branch.txt
 |4,39,1,30,1671588785,"~/branch.txt"
 -'  1  30  ~/branch.txt
@@ -226,95 +306,16 @@ $
 |4,39,1,30,1671588785,"~/branch.txt"
 -'  1  30  ~/branch.txt
 |4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  1  30  ~/branch.txt
-|4,39,1,30,1671588785,"~/branch.txt"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
--'  3  3  ~/.gitignore
-|4,39,3,3,1671587552,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~/demo2
-	*	1671760810	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
+	*	1671760862	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	1	5
+	+	2	4
 
 > ~/git/testssh
 	*	1671760322	0
